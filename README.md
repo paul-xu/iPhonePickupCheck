@@ -1,4 +1,4 @@
-# iPhone13 取货预约助手
+# iPhone 线下店库存监测
 
 # 请合理使用 ❤️
 
@@ -9,7 +9,7 @@ MacOS, Windows, Linux
 Python 3
 ### 使用方法
 拉取代码
-git clone https://github.com/greatcodeeer/iPhone-Pickup-Monitor.git
+git clone https://github.com/paul-xu/iPhonePickupCheck.git
 
 进入目录
 cd iPhone-Pickup-Monitor
